@@ -27,4 +27,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Sass](https://sass-lang.com/) - For styles
 - [Vite](https://vitejs.dev/) - Build Tool
 
+## Author
 
+Github: [Kulimito](https://github.com/Kulimito)
